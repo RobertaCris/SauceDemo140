@@ -3,6 +3,7 @@ import selenium
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+
 # 2 - Classe (no Python é opcional)
 class Teste_Produtos():
 
